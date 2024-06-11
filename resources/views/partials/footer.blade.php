@@ -4,9 +4,9 @@
             <div class="col-md-4">
                 <h5>Contacto</h5>
                 <ul class="list-unstyled">
-                    <li><i class="bi bi-envelope-fill"></i> darkCodeProyect@empresa.com</li>
+                    <li><i class="bi bi-envelope-fill"></i> Villegassoluciones@empresa.com</li>
                     <li><i class="bi bi-telephone-fill"></i> +51 906890881</li>
-                    <li><i class="bi bi-geo-alt-fill"></i> Calle Los Girasoles 123, Miraflores, Lima</li>
+                    <li><i class="bi bi-geo-alt-fill"></i> Calle Villegas 369, Lima, Perú</li>
                 </ul>
             </div>
             <div class="col-md-4">
@@ -17,6 +17,7 @@
                     <li><a class="text-white text-decoration-none" href="{{route('proyectos.index')}}">Proyectos</a></li>
                     <li><a class="text-white text-decoration-none" href="{{route('clientes.index')}}">Clientes</a></li>
                     <li><a class="text-white text-decoration-none" href="{{route('blogs.index')}}">Blog</a></li>
+                    <li><a class="text-white text-decoration-none" href="{{route('personas.index')}}">Personas</a></li>
                     <li><a class="text-white text-decoration-none" href="{{route('contacto.index')}}">Contacto</a></li>
                 </ul>
             </div>
