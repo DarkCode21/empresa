@@ -33,7 +33,7 @@
             </div>
             <div class="col-lg-6 mb-4">
                 <h5 class="mb-3">Información de Contacto</h5>
-                <p><strong>Dirección:</strong>  Calle Leoncio Prado, Lima Peru</p>
+                <p><strong>Dirección:</strong>  Calle Villegas Miraflores, Lima, Perú</p>
                 <p><strong>Teléfono:</strong> +51 906890881</p>
                 <p><strong>Email:</strong> deyvi132002@empresa.com</p>
                 <div class="mt-4">

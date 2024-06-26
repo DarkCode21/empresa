@@ -5,8 +5,8 @@
                 <h5>Contacto</h5>
                 <ul class="list-unstyled">
                     <li><i class="bi bi-envelope-fill"></i> deyvi132002@empresa.com</li>
-                    <li><i class="bi bi-telephone-fill"></i> +51 906890881</li>
-                    <li><i class="bi bi-geo-alt-fill"></i> Calle Leoncio Prado, Lima, Perú</li>
+                    <li><i class="bi bi-telephone-fill"></i> +51 906890881/li>
+                    <li><i class="bi bi-geo-alt-fill"></i> Calle Villegas Miraflores 369, Lima, Perú</li>
                 </ul>
             </div>
             <div class="col-md-4">
