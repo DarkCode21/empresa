@@ -38,7 +38,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 style="text-align: center;">Empresa Negreros</h1>
+        <h1 style="text-align: center;">Empresa Villegas</h1>
         <p><strong>Nombre:</strong> {{$mensaje['nombre']}}</p>
         <p><strong>Email:</strong> {{$mensaje['email']}}</p>
         <p><strong>Asunto:</strong> {{$mensaje['asunto']}}</p>
