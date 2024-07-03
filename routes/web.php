@@ -50,12 +50,8 @@ Route::prefix('personas')->group(function () {
         ->where('id', '[A-Za-z0-9]+');
 
     Route::delete('/{persona}', [PersonasController::class, 'destroy'])->name('personas.destroy');
-
-
     
 });
-
-
 
 Route::get('/contacto', [LandingController::class, 'contacto'])->name('contacto.index');
 Route::post('contacto', [ContactoController::class, 'store'])->name('contacto.store');
