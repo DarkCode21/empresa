@@ -53,7 +53,7 @@
                 <h5 class="mb-3">Información de Contacto</h5>
                 <p><strong>Dirección:</strong>  Miraflores 369, Lima, Perú</p>
                 <p><strong>Teléfono:</strong> +51 906890881</p>
-                <p><strong>Email:</strong> deyvivillegas@empresa.com</p>
+                <p><strong>Email:</strong> deyvi@empresa.com</p>
                 <div class="mt-4">
                     <h5 class="mb-3">Síguenos en las Redes Sociales</h5>
                     <a href="#" class="btn btn-outline-dark me-2"><i class="bi bi-facebook"></i> Facebook</a>

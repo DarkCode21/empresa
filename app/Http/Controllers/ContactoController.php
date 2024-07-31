@@ -35,5 +35,4 @@ class ContactoController extends Controller
     }
 
 
-
 }
