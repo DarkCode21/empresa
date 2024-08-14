@@ -34,5 +34,4 @@ class ContactoController extends Controller
         return back()->with('success','Datos validados y correo enviado correctamente');
     }
 
-
 }
